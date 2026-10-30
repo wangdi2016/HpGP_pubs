@@ -6,3 +6,10 @@ https://dceg.cancer.gov/research/how-we-study/genomic-studies/h-pylori-genome-pr
 
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
 
+#
+
+1. Marker paper
+
+https://www.nature.com/articles/s41467-023-43562-y
+
+2. 
