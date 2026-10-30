@@ -14,14 +14,29 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
    ### 2. Genomic determinants of antibiotic resistance for Helicobacter pylori treatment: a retrospective phenotypic and genotypic observational study
    https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00145-4/fulltext
 
-   ### 3. Worldwide Phylogenetic and Clinical Risk Association of the Helicobacter pylori Outer Membrane Gene hopQ
+   ### 3. GrafGen: Distance-Based Inference of Population Ancestry for Helicobacter pylori Genomes
+   https://link.springer.com/article/10.1186/s12859-025-06294-y
+   
+   ### 4. GrafGen: Distance-Based Inference of Population Ancestry for Helicobacter pylori Genomes
+   https://link.springer.com/article/10.1186/s12859-025-06294-y
+
+   ### 5. Genomic determinants of antibiotic resistance for Helicobacter pylori treatment: a retrospective phenotypic and genotypic observational study
+   https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00145-4/fulltext
+   
+   ### 6. Worldwide Phylogenetic and Clinical Risk Association of the Helicobacter pylori Outer Membrane Gene hopQ
    https://onlinelibrary.wiley.com/doi/pdf/10.1111/hel.70145
 
-   ### 4. Helicobacter pylori vacA allelic diversity: global variation and association with gastric malignant and premalignant conditions
+   ### 7. Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture
    xxx
 
-   ### 5. Plasmids in Helicobacter pylori
+   ### 8. Plasmids in Helicobacter pylori
+   xxx
+   
+   ### 9. Helicobacter pylori vacA allelic diversity: global variation and association with gastric malignant and premalignant conditions
    xxx
 
-   ### 6. Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture
+   ### 10. Helicobacter pylori vacA allelic diversity: global variation and association with gastric malignant and premalignant conditions
+   xxx
+
+   ### 11. Helicobacter pylori vacA allelic diversity: global variation and association with gastric malignant and premalignant conditions
    xxx
