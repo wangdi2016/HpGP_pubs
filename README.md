@@ -1,6 +1,6 @@
 # HpGP Publications
 
-This repo hosts all the publications from the *Helicobacter pylori Genome Project* (HpGP)
+This repo hosts all the publications related to the *Helicobacter pylori Genome Project* (HpGP)
 
 https://dceg.cancer.gov/research/how-we-study/genomic-studies/h-pylori-genome-project
 
