@@ -12,4 +12,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
 
 https://www.nature.com/articles/s41467-023-43562-y
 
-2. 
+2. Genomic determinants of antibiotic resistance for Helicobacter pylori treatment: a retrospective phenotypic and genotypic observational study
+   https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00145-4/fulltext
+   
+4. xxx
