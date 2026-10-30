@@ -16,3 +16,12 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
 
    ### 3. Worldwide Phylogenetic and Clinical Risk Association of the Helicobacter pylori Outer Membrane Gene hopQ
    https://onlinelibrary.wiley.com/doi/pdf/10.1111/hel.70145
+
+   ### 4. xxx
+   xxx
+
+   ### 5. xxx
+   xxx
+
+   ### 6. xxx
+   xxx
