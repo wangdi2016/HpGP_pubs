@@ -33,8 +33,8 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
    ### 9. Helicobacter pylori vacA allelic diversity: global variation and association with gastric malignant and premalignant conditions
    under revision
 
-   ### 10. xxx
-   xxx
-
+   ### 10. Culture-free Helicobacter pylori genomics reveals within-host virulence heterogeneity and antibiotic resistance
+   https://www.medrxiv.org/content/10.64898/2026.10.23.26365955v1.full.pdf
+   
    ### 11. xxx
    xxx
