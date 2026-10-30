@@ -8,8 +8,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
 
 #
 
-   ### 1. Marker paper
-
+   ### 1. The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes
    https://www.nature.com/articles/s41467-023-43562-y
 
    ### 2. Genomic determinants of antibiotic resistance for Helicobacter pylori treatment: a retrospective phenotypic and genotypic observational study
