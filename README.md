@@ -23,5 +23,5 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
    ### 5. Plasmids in Helicobacter pylori
    xxx
 
-   ### 6. xxx
+   ### 6. Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture
    xxx
