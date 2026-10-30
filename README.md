@@ -15,5 +15,5 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
    ### 2. Genomic determinants of antibiotic resistance for Helicobacter pylori treatment: a retrospective phenotypic and genotypic observational study
    https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00145-4/fulltext
 
-   ### 3. 
+   ### 3. Worldwide Phylogenetic and Clinical Risk Association of the Helicobacter pylori Outer Membrane Gene hopQ
    https://onlinelibrary.wiley.com/doi/pdf/10.1111/hel.70145
